@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A passionate data analyst undergraduate from Saudi Arabia, Riyadh.</h3>
+<h3 align="center">A passionate undergraduate from Saudi Arabia, Riyadh.</h3>
 
-- 🔭 I’m currently working on **python project - Explore US Bikeshare Data.**
+- 🔭 I’m currently working on **Web project.**
 
-- 🌱 I’m currently learning **Git commands.**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **sara7alshat@gmail.com**
 
