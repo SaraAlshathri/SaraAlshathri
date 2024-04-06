@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Resume Master Project**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Rapid Miner**
 
 - 📫 How to reach me **sara7alshat@gmail.com**
 
