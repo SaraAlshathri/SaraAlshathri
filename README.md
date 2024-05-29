@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Mining Project**
 
-- 🌱 Main skil: **Data Analysis & Visualization**
+- 🌱 Main skill: **Data Analysis & Visualization**
 
 - 📫 How to reach me **sara7alshat@gmail.com**
 
