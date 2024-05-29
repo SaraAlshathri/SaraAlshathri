@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Mining Project**
 
-- 🌱 I’m currently learning **Rapid Miner**
+- 🌱 Main skil: **Data Analysis & Visualization**
 
 - 📫 How to reach me **sara7alshat@gmail.com**
 
