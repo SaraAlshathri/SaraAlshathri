@@ -5,7 +5,12 @@
 
 - 🌱 Main skill: **Data Analysis & Visualization**
 
-- 📫 How to reach me **sara7alshat@gmail.com**
+- * 📊 Here is my favorite project
+
+[Udacity Marketing Analytics Nanodegree](https://github.com/SaraAlshathri/Marketing_Analytics)
+
+
+- 📫 How to reach me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarafalshathri/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
