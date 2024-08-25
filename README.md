@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate senior MIS student from Saudi Arabia.</h3>
 
-- 🔭 I’m currently working on **Data Mining Project**
+- 🔭 I’m currently a **Co-op Trainee**
 
 - 🌱 Main skill: **Data Analysis & Visualization**
 
